@@ -56,3 +56,7 @@ Nothing yet
   - Responsive Web Design Certification
   - JavaScript Algorithms and Data Structures
 - JavaScript Manual on [JavaScript.ru](https://learn.javascript.ru/)
+
+## Language
+
+- English level - A2
