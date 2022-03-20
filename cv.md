@@ -46,3 +46,13 @@ function isPangram(string) {
   return true;
 }
 ```
+
+## Experience
+
+Nothing yet
+
+## Education
+- FreeCodeCamp 
+  - Responsive Web Design Certification
+  - JavaScript Algorithms and Data Structures
+- JavaScript Manual on [JavaScript.ru](https://learn.javascript.ru/)
